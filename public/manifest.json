@@ -1,0 +1,24 @@
+{
+  "short_name": "Álbum 2026",
+  "name": "Control de Álbum Mundial 2026",
+  "description": "Herramienta interactiva y divertida para que padres y niños lleven el control de los cromos pegados del Álbum del Mundial 2026.",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a1931",
+  "theme_color": "#0a1931",
+  "display": "standalone",
+  "orientation": "portrait"
+}

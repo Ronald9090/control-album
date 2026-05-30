@@ -1,0 +1,6 @@
+{
+  "name": "Control de Álbum Mundial 2026",
+  "description": "Herramienta interactiva y divertida para que padres y niños lleven el control de los cromos pegados del Álbum del Mundial 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
